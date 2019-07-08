@@ -1,0 +1,12 @@
+{
+    "appName": "rsphp-boilerplate",
+    "globals": {
+        "EMAIL_ADMIN": "my@email.com",
+        "DEVELOPMENT_ENVIRONMENT": "1",
+        "logSql": false,
+        "allowCORS": true
+    },
+    "configFiles": [],
+    "routes": [],
+    "dbConnections": []
+}
